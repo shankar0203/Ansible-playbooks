@@ -8,4 +8,3 @@
     raw: 'cat < /home/ubuntu/script.sh'
     args:
       executable: /bin/bash
-
